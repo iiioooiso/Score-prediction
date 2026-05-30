@@ -158,11 +158,8 @@ Contributions welcome. Please open issues for bugs or feature requests and submi
 ---
 
 ## Deployment links (replace with your actual links)
+- Streamlit UI (Streamlit Cloud / Vercel): [https://streamlit.io/your-deploy](https://score-pred.streamlit.app/)
 
-- Backend (Docker image): https://hub.docker.com/r/your-org/conversation-eval
-- Backend (Kubernetes manifest / helm): https://github.com/your-org/conversation-eval/deploy/k8s
-- Streamlit UI (Streamlit Cloud / Vercel): https://streamlit.io/your-deploy
-- CI/CD (GitHub Actions): https://github.com/your-org/conversation-eval/actions
 
 Replace the URLs above with real deployment URLs for your project.
 
