@@ -1,0 +1,400 @@
+facet_id,facet_name,category,subcategory,description,inferability,evidence_type
+1,Risktaking,Personality,Sensation/Adventure,Indicates tendency to seek novel or risky experiences and take actions with potential negative consequences.,medium,behavioral
+2,Naivety,General,,Measures indications or behaviors related to Naivety.,medium,behavioral
+3,Acidity,General,,Measures indications or behaviors related to Acidity.,medium,behavioral
+4,Democratic Leadership,Leadership,Styles,"Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",medium,behavioral
+5,Common-sense,General,,Measures indications or behaviors related to Common-sense.,medium,behavioral
+6,Hesitation,General,,Measures indications or behaviors related to Hesitation.,medium,behavioral
+7,Discontentment,General,,Measures indications or behaviors related to Discontentment.,medium,behavioral
+8,Overprotectiveness,General,,Measures indications or behaviors related to Overprotectiveness.,medium,behavioral
+9,Merriness,General,,Measures indications or behaviors related to Merriness.,medium,behavioral
+10,Emotionalism,General,,Measures indications or behaviors related to Emotionalism.,medium,behavioral
+11,Self-improvement,General,,Measures indications or behaviors related to Self-improvement.,medium,behavioral
+12,Statistical Reasoning,General,,Measures indications or behaviors related to Statistical Reasoning.,medium,behavioral
+13,Assertiveness and control in relationships,General,,Measures indications or behaviors related to Assertiveness and control in relationships.,medium,behavioral
+14,Cunningness,General,,Measures indications or behaviors related to Cunningness.,medium,behavioral
+15,Adventure-Seeking Behavior,Personality,Sensation/Adventure,Indicates tendency to seek novel or risky experiences and take actions with potential negative consequences.,medium,behavioral
+16,Compassion Fatigue,Personality,Prosocial,"Indicates prosocial tendencies such as empathy, concern for others, and social awareness.",high,behavioral
+17,Moroseness,General,,Measures indications or behaviors related to Moroseness.,medium,behavioral
+18,Specialist,General,,Measures indications or behaviors related to Specialist.,medium,behavioral
+19,Aloofness,General,,Measures indications or behaviors related to Aloofness.,medium,behavioral
+20,Genuine,General,,Measures indications or behaviors related to Genuine.,medium,behavioral
+21,Determinedness,General,,Measures indications or behaviors related to Determinedness.,medium,behavioral
+22,HonestyHumility,General,,Measures indications or behaviors related to HonestyHumility.,medium,behavioral
+23,Relationship Building Themes,General,,Measures indications or behaviors related to Relationship Building Themes.,medium,behavioral
+24,Pure Challenge,General,,Measures indications or behaviors related to Pure Challenge.,medium,behavioral
+25,Numerical Reasoning Subcomponents,Cognitive,Ability,"Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",low,cognitive
+26,Openness,General,,Measures indications or behaviors related to Openness.,medium,behavioral
+27,SelfEsteem,General,,Measures indications or behaviors related to SelfEsteem.,medium,behavioral
+28,Comparing alphanumeric data,General,,Measures indications or behaviors related to Comparing alphanumeric data.,medium,behavioral
+29,Big-heartedness,General,,Measures indications or behaviors related to Big-heartedness.,medium,behavioral
+30,Compulsive activities,General,,Measures indications or behaviors related to Compulsive activities.,medium,behavioral
+31,Disrespect,General,,Measures indications or behaviors related to Disrespect.,medium,behavioral
+32,FSH level,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+33,Self Perspective,General,,Measures indications or behaviors related to Self Perspective.,medium,behavioral
+34,Desperation,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+35,Affiliation Motivation,General,,Measures indications or behaviors related to Affiliation Motivation.,medium,behavioral
+36,Anatomy knowledge,General,,Measures indications or behaviors related to Anatomy knowledge.,medium,behavioral
+37,Passive-Aggressive,General,,Measures indications or behaviors related to Passive-Aggressive.,medium,behavioral
+38,Presence of Spiritual Pain,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+39,Role of Spirituality in Community Involvement,Spiritual / Cultural,Religious Practices,Refers to religious or spiritual practices and participation; often self-reported and culture-specific.,low,self-report
+40,Structure,General,,Measures indications or behaviors related to Structure.,medium,behavioral
+41,Eco-tourism trips,General,,Measures indications or behaviors related to Eco-tourism trips.,medium,behavioral
+42,Chivalrousness,General,,Measures indications or behaviors related to Chivalrousness.,medium,behavioral
+43,Pilgrimage participation count,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+44,Mindfulness facet: Observing,General,,Measures indications or behaviors related to Mindfulness facet: Observing.,medium,behavioral
+45,Submissiveness,General,,Measures indications or behaviors related to Submissiveness.,medium,behavioral
+46,Training-cycle length,General,,Measures indications or behaviors related to Training-cycle length.,medium,behavioral
+47,Sensitiveness,General,,Measures indications or behaviors related to Sensitiveness.,medium,behavioral
+48,Negative Affect Frequency,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+49,Innovation and Creativity Components,General,,Measures indications or behaviors related to Innovation and Creativity Components.,medium,behavioral
+50,Achievement Motivation,General,,Measures indications or behaviors related to Achievement Motivation.,medium,behavioral
+51,Feedback-giving frequency,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+52,Dance-cardio sessions,General,,Measures indications or behaviors related to Dance-cardio sessions.,medium,behavioral
+53,Enthusiasm,General,,Measures indications or behaviors related to Enthusiasm.,medium,behavioral
+54,Psychological construct: Social Desirability tendency,General,,Measures indications or behaviors related to Psychological construct: Social Desirability tendency.,medium,behavioral
+55,Inattentiveness,General,,Measures indications or behaviors related to Inattentiveness.,medium,behavioral
+56,Unassertiveness,General,,Measures indications or behaviors related to Unassertiveness.,medium,behavioral
+57,Decision-making decisiveness,General,,Measures indications or behaviors related to Decision-making decisiveness.,medium,behavioral
+58,Sense-of-coherence score,General,,Measures indications or behaviors related to Sense-of-coherence score.,medium,behavioral
+59,Justice-mindedness,General,,Measures indications or behaviors related to Justice-mindedness.,medium,behavioral
+60,Subscription count,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+61,Depression Symptoms,Mental Health,Mood,"Measures evidence of low mood, sadness, hopelessness, reduced motivation, and loss of interest related to Depression Symptoms.",high,behavioral
+62,Spatial perception,General,,Measures indications or behaviors related to Spatial perception.,medium,behavioral
+63,Brevity,General,,Measures indications or behaviors related to Brevity.,medium,behavioral
+64,Orderliness,General,,Measures indications or behaviors related to Orderliness.,medium,behavioral
+65,Multiculturalism,General,,Measures indications or behaviors related to Multiculturalism.,medium,behavioral
+66,Creative risk-taking tendency,Personality,Sensation/Adventure,Indicates tendency to seek novel or risky experiences and take actions with potential negative consequences.,medium,behavioral
+67,Inefficiency,General,,Measures indications or behaviors related to Inefficiency.,medium,behavioral
+68,Network basics,General,,Measures indications or behaviors related to Network basics.,medium,behavioral
+69,Alphabetical filing skills,General,,Measures indications or behaviors related to Alphabetical filing skills.,medium,behavioral
+70,Work Styles,General,,Measures indications or behaviors related to Work Styles.,medium,behavioral
+71,Character strength: Perseverance,General,,Measures indications or behaviors related to Character strength: Perseverance.,medium,behavioral
+72,Competition,General,,Measures indications or behaviors related to Competition.,medium,behavioral
+73,Logical Sequence Identification,General,,Measures indications or behaviors related to Logical Sequence Identification.,medium,behavioral
+74,Sustainable-transport usage,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+75,Hardworking,General,,Measures indications or behaviors related to Hardworking.,medium,behavioral
+76,Emotional-intelligence measure: Impulsiveness,Cognitive,Ability,"Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",low,cognitive
+77,Dishonesty,General,,Measures indications or behaviors related to Dishonesty.,medium,behavioral
+78,Preferred epistemology,General,,Measures indications or behaviors related to Preferred epistemology.,medium,behavioral
+79,Memory for Sounds,General,,Measures indications or behaviors related to Memory for Sounds.,medium,behavioral
+80,Sportsmanship rating,General,,Measures indications or behaviors related to Sportsmanship rating.,medium,behavioral
+81,Immaturity,General,,Measures indications or behaviors related to Immaturity.,medium,behavioral
+82,Health-literacy level,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+83,Estimating Calculations,General,,Measures indications or behaviors related to Estimating Calculations.,medium,behavioral
+84,Depression: Feelings of sadness and hopelessness,Mental Health,Mood,"Measures evidence of low mood, sadness, hopelessness, reduced motivation, and loss of interest related to Depression: Feelings of sadness and hopelessness.",high,behavioral
+85,Synthesis of information,General,,Measures indications or behaviors related to Synthesis of information.,medium,behavioral
+86,Leadership Potential,Leadership,Styles,"Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",medium,behavioral
+87,Ethical standards,General,,Measures indications or behaviors related to Ethical standards.,medium,behavioral
+88,High-spiritedness,General,,Measures indications or behaviors related to High-spiritedness.,medium,behavioral
+89,Critical reasoning,General,,Measures indications or behaviors related to Critical reasoning.,medium,behavioral
+90,Sleep-disorder diagnosis,General,,Measures indications or behaviors related to Sleep-disorder diagnosis.,medium,behavioral
+91,Listening Skills Subcomponents,General,,Measures indications or behaviors related to Listening Skills Subcomponents.,medium,behavioral
+92,Collaboration,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+93,Precision of Movements,General,,Measures indications or behaviors related to Precision of Movements.,medium,behavioral
+94,Social Boldness,General,,Measures indications or behaviors related to Social Boldness.,medium,behavioral
+95,Auditory memory,General,,Measures indications or behaviors related to Auditory memory.,medium,behavioral
+96,Psychomotor Ability Subcomponents,General,,Measures indications or behaviors related to Psychomotor Ability Subcomponents.,medium,behavioral
+97,Organized lifestyle,General,,Measures indications or behaviors related to Organized lifestyle.,medium,behavioral
+98,Skill-endorsements count,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+99,Mysteriousness,General,,Measures indications or behaviors related to Mysteriousness.,medium,behavioral
+100,Cultural Identity,General,,Measures indications or behaviors related to Cultural Identity.,medium,behavioral
+101,Intrinsic Motivation,General,,Measures indications or behaviors related to Intrinsic Motivation.,medium,behavioral
+102,Impartial-mindedness,General,,Measures indications or behaviors related to Impartial-mindedness.,medium,behavioral
+103,Burnout Symptoms,Mental Health,Work-related,"Measures chronic exhaustion, cynicism, and reduced professional efficacy (burnout symptoms).",high,behavioral
+104,Holiness,General,,Measures indications or behaviors related to Holiness.,medium,behavioral
+105,Selfcontrol,General,,Measures indications or behaviors related to Selfcontrol.,medium,behavioral
+106,SelfDirectedness,General,,Measures indications or behaviors related to SelfDirectedness.,medium,behavioral
+107,Encouraging participation,General,,Measures indications or behaviors related to Encouraging participation.,medium,behavioral
+108,Impracticalness,General,,Measures indications or behaviors related to Impracticalness.,medium,behavioral
+109,Meeting Deadlines,General,,Measures indications or behaviors related to Meeting Deadlines.,medium,behavioral
+110,Data Analysis,General,,Measures indications or behaviors related to Data Analysis.,medium,behavioral
+111,Social Interaction Skills,General,,Measures indications or behaviors related to Social Interaction Skills.,medium,behavioral
+112,Psychoticism,General,,Measures indications or behaviors related to Psychoticism.,medium,behavioral
+113,Ethical leadership rating,Leadership,Styles,"Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",medium,behavioral
+114,Slothfulness,General,,Measures indications or behaviors related to Slothfulness.,medium,behavioral
+115,Happiness,General,,Measures indications or behaviors related to Happiness.,medium,behavioral
+116,Contentment Levels,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+117,Neuroticism,General,,Measures indications or behaviors related to Neuroticism.,medium,behavioral
+118,Desire for excellence,General,,Measures indications or behaviors related to Desire for excellence.,medium,behavioral
+119,Perceiving,General,,Measures indications or behaviors related to Perceiving.,medium,behavioral
+120,Liberalism,General,,Measures indications or behaviors related to Liberalism.,medium,behavioral
+121,Inversion comfort level,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+122,Affection,General,,Measures indications or behaviors related to Affection.,medium,behavioral
+123,Numeric Filing Skills,General,,Measures indications or behaviors related to Numeric Filing Skills.,medium,behavioral
+124,Martyrdom,General,,Measures indications or behaviors related to Martyrdom.,medium,behavioral
+125,Parathyroid-hormone level,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+126,Seeking approval,General,,Measures indications or behaviors related to Seeking approval.,medium,behavioral
+127,Judging (J),General,,Measures indications or behaviors related to Judging (J).,medium,behavioral
+128,Big Five facet Openness – Artistic Interests,General,,Measures indications or behaviors related to Big Five facet Openness – Artistic Interests.,medium,behavioral
+129,Psychological construct: Operant-Learning rate,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+130,Psychological construct: Need for Achievement level,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+131,Cantankerousness,General,,Measures indications or behaviors related to Cantankerousness.,medium,behavioral
+132,Material properties knowledge,General,,Measures indications or behaviors related to Material properties knowledge.,medium,behavioral
+133,Hostility,General,,Measures indications or behaviors related to Hostility.,medium,behavioral
+134,Independence,General,,Measures indications or behaviors related to Independence.,medium,behavioral
+135,Sufi practice: Sufi retreat attendance count,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+136,Chromatin-accessibility score,General,,Measures indications or behaviors related to Chromatin-accessibility score.,medium,behavioral
+137,Spiritual virtue: Humility practice index,Spiritual / Cultural,Religious Practices,Refers to religious or spiritual practices and participation; often self-reported and culture-specific.,low,self-report
+138,I Ching hexagram 36 resonance level,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+139,Well-being component: Engagement,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+140,Need for social interaction,General,,Measures indications or behaviors related to Need for social interaction.,medium,behavioral
+141,Peer-collaboration hours,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+142,Arts and Humanities,General,,Measures indications or behaviors related to Arts and Humanities.,medium,behavioral
+143,Religious practice: Quran khatam cycles per year,Spiritual / Cultural,Religious Practices,Refers to religious or spiritual practices and participation; often self-reported and culture-specific.,low,self-report
+144,Bahá’í spiritual metric: Ridván festival participation,Spiritual / Cultural,Religious Practices,Refers to religious or spiritual practices and participation; often self-reported and culture-specific.,low,self-report
+145,Compassion,Personality,Prosocial,"Indicates prosocial tendencies such as empathy, concern for others, and social awareness.",high,behavioral
+146,Information Retention,General,,Measures indications or behaviors related to Information Retention.,medium,behavioral
+147,Eye-contact duration,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+148,Self-righteousness,General,,Measures indications or behaviors related to Self-righteousness.,medium,behavioral
+149,General Mood and Attitude,Mental Health,Mood,"Measures evidence of low mood, sadness, hopelessness, reduced motivation, and loss of interest related to General Mood and Attitude.",high,behavioral
+150,Serotonin transporter availability,General,,Measures indications or behaviors related to Serotonin transporter availability.,medium,behavioral
+151,Contribution to Group Goals,General,,Measures indications or behaviors related to Contribution to Group Goals.,medium,behavioral
+152,Dignity,General,,Measures indications or behaviors related to Dignity.,medium,behavioral
+153,HEXACO Personality Inventory Facets,General,,Measures indications or behaviors related to HEXACO Personality Inventory Facets.,medium,behavioral
+154,Evaluating Solutions,General,,Measures indications or behaviors related to Evaluating Solutions.,medium,behavioral
+155,Input,General,,Measures indications or behaviors related to Input.,medium,behavioral
+156,Discreteness,General,,Measures indications or behaviors related to Discreteness.,medium,behavioral
+157,Energy-healing practice: Reiki sessions / year,General,,Measures indications or behaviors related to Energy-healing practice: Reiki sessions / year.,medium,behavioral
+158,Astrology: Rising sign is Scorpio,General,,Measures indications or behaviors related to Astrology: Rising sign is Scorpio.,medium,behavioral
+159,Character strength: Social Intelligence,Cognitive,Ability,"Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",low,cognitive
+160,Bravery,General,,Measures indications or behaviors related to Bravery.,medium,behavioral
+161,Childhood Experiences,General,,Measures indications or behaviors related to Childhood Experiences.,medium,behavioral
+162,Data-sharing consent level,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+163,Vision-check frequency,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+164,Physical-violence exposure,General,,Measures indications or behaviors related to Physical-violence exposure.,medium,behavioral
+165,Macronutrient ratio: fat,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+166,Cooking and Culinary Arts,General,,Measures indications or behaviors related to Cooking and Culinary Arts.,medium,behavioral
+167,Language use,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+168,Dance-style mastery diversity,General,,Measures indications or behaviors related to Dance-style mastery diversity.,medium,behavioral
+169,Satya Adherence,General,,Measures indications or behaviors related to Satya Adherence.,medium,behavioral
+170,Ethnocentrism,General,,Measures indications or behaviors related to Ethnocentrism.,medium,behavioral
+171,Emotional Boundaries,General,,Measures indications or behaviors related to Emotional Boundaries.,medium,behavioral
+172,Creativity in solutions,General,,Measures indications or behaviors related to Creativity in solutions.,medium,behavioral
+173,Psychological construct: Hope scale,General,,Measures indications or behaviors related to Psychological construct: Hope scale.,medium,behavioral
+174,Practice frequency: Walking meditation,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+175,Depression (DEP),Mental Health,Mood,"Measures evidence of low mood, sadness, hopelessness, reduced motivation, and loss of interest related to Depression (DEP).",high,behavioral
+176,Understanding Mathematical Concepts,General,,Measures indications or behaviors related to Understanding Mathematical Concepts.,medium,behavioral
+177,Hypomania (Ma),General,,Measures indications or behaviors related to Hypomania (Ma).,medium,behavioral
+178,Goal-Directed Behavior,General,,Measures indications or behaviors related to Goal-Directed Behavior.,medium,behavioral
+179,Depth of Emotional Connections,General,,Measures indications or behaviors related to Depth of Emotional Connections.,medium,behavioral
+180,Binding foundations index,General,,Measures indications or behaviors related to Binding foundations index.,medium,behavioral
+181,Ego Dissolution Frequency,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+182,Activator: Turning thoughts into action,General,,Measures indications or behaviors related to Activator: Turning thoughts into action.,medium,behavioral
+183,Gnostic spiritual metric: Archon meditation frequency,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+184,Exemplariness,General,,Measures indications or behaviors related to Exemplariness.,medium,behavioral
+185,Moral and Ethical Parameters,General,,Measures indications or behaviors related to Moral and Ethical Parameters.,medium,behavioral
+186,Submission,General,,Measures indications or behaviors related to Submission.,medium,behavioral
+187,Frankness,General,,Measures indications or behaviors related to Frankness.,medium,behavioral
+188,Psychological construct: Psychological Safety climate,General,,Measures indications or behaviors related to Psychological construct: Psychological Safety climate.,medium,behavioral
+189,Psychological construct: Self-Compassion total,Personality,Prosocial,"Indicates prosocial tendencies such as empathy, concern for others, and social awareness.",high,behavioral
+190,Psychological construct: Executive-Function composite,General,,Measures indications or behaviors related to Psychological construct: Executive-Function composite.,medium,behavioral
+191,Rebelliousness,General,,Measures indications or behaviors related to Rebelliousness.,medium,behavioral
+192,Volunteer Work,General,,Measures indications or behaviors related to Volunteer Work.,medium,behavioral
+193,Intellect,General,,Measures indications or behaviors related to Intellect.,medium,behavioral
+194,Use of Mathematical Formulas,General,,Measures indications or behaviors related to Use of Mathematical Formulas.,medium,behavioral
+195,Coarseness,General,,Measures indications or behaviors related to Coarseness.,medium,behavioral
+196,Behavioral Tendencies and Subcomponents,General,,Measures indications or behaviors related to Behavioral Tendencies and Subcomponents.,medium,behavioral
+197,Sensitivity,General,,Measures indications or behaviors related to Sensitivity.,medium,behavioral
+198,Divided Attention Ability,General,,Measures indications or behaviors related to Divided Attention Ability.,medium,behavioral
+199,Psychological construct: Acculturative Stress score,General,,Measures indications or behaviors related to Psychological construct: Acculturative Stress score.,medium,behavioral
+200,Dauntlessness,General,,Measures indications or behaviors related to Dauntlessness.,medium,behavioral
+201,Concreteness,General,,Measures indications or behaviors related to Concreteness.,medium,behavioral
+202,Hysteria (Hy),General,,Measures indications or behaviors related to Hysteria (Hy).,medium,behavioral
+203,Jewish spiritual metric: Sukkot lulav-shaking days,Spiritual / Cultural,Religious Practices,Refers to religious or spiritual practices and participation; often self-reported and culture-specific.,low,self-report
+204,Sentence Structure,General,,Measures indications or behaviors related to Sentence Structure.,medium,behavioral
+205,Esteem Needs,General,,Measures indications or behaviors related to Esteem Needs.,medium,behavioral
+206,Understanding mechanical concepts,General,,Measures indications or behaviors related to Understanding mechanical concepts.,medium,behavioral
+207,Auditory Memory Recall,General,,Measures indications or behaviors related to Auditory Memory Recall.,medium,behavioral
+208,Storytelling proficiency,General,,Measures indications or behaviors related to Storytelling proficiency.,medium,behavioral
+209,Music-lessons years,General,,Measures indications or behaviors related to Music-lessons years.,medium,behavioral
+210,Warmheartedness,Personality,Prosocial,"Indicates prosocial tendencies such as empathy, concern for others, and social awareness.",high,behavioral
+211,Self-effacement,General,,Measures indications or behaviors related to Self-effacement.,medium,behavioral
+212,Outspokenness,General,,Measures indications or behaviors related to Outspokenness.,medium,behavioral
+213,Sleep-environment temperature,General,,Measures indications or behaviors related to Sleep-environment temperature.,medium,behavioral
+214,Comprehension of spoken information,General,,Measures indications or behaviors related to Comprehension of spoken information.,medium,behavioral
+215,Blissfulness,General,,Measures indications or behaviors related to Blissfulness.,medium,behavioral
+216,Sequential Memory Recall,General,,Measures indications or behaviors related to Sequential Memory Recall.,medium,behavioral
+217,Withdrawnness,General,,Measures indications or behaviors related to Withdrawnness.,medium,behavioral
+218,Hindu spiritual metric: Yoga discipline hours / week,Spiritual / Cultural,Religious Practices,Refers to religious or spiritual practices and participation; often self-reported and culture-specific.,low,self-report
+219,Conservatism,General,,Measures indications or behaviors related to Conservatism.,medium,behavioral
+220,Adaptability and Flexibility Subcomponents,General,,Measures indications or behaviors related to Adaptability and Flexibility Subcomponents.,medium,behavioral
+221,Hindu spiritual metric: Vrata vows observed / year,Spiritual / Cultural,Religious Practices,Refers to religious or spiritual practices and participation; often self-reported and culture-specific.,low,self-report
+222,Ardency,General,,Measures indications or behaviors related to Ardency.,medium,behavioral
+223,Aesthetic Appreciation,General,,Measures indications or behaviors related to Aesthetic Appreciation.,medium,behavioral
+224,Transactional Leadership,Leadership,Styles,"Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",medium,behavioral
+225,Value orientation: Universalism,General,,Measures indications or behaviors related to Value orientation: Universalism.,medium,behavioral
+226,Perseverance,General,,Measures indications or behaviors related to Perseverance.,medium,behavioral
+227,Regularity of Self-Reflection,General,,Measures indications or behaviors related to Regularity of Self-Reflection.,medium,behavioral
+228,Controlling Reactions,General,,Measures indications or behaviors related to Controlling Reactions.,medium,behavioral
+229,Psychological construct: Cultural Intelligence – Behavioral,Cognitive,Ability,"Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",low,cognitive
+230,Metabolic Rate (Low or High),Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+231,Dietary Habits,General,,Measures indications or behaviors related to Dietary Habits.,medium,behavioral
+232,Significance: Desire to make an impact,General,,Measures indications or behaviors related to Significance: Desire to make an impact.,medium,behavioral
+233,Psychological construct: Resilience-Trait score,General,,Measures indications or behaviors related to Psychological construct: Resilience-Trait score.,medium,behavioral
+234,Boredom Susceptibility,General,,Measures indications or behaviors related to Boredom Susceptibility.,medium,behavioral
+235,Psychological construct: Consummatory Pleasure scale,General,,Measures indications or behaviors related to Psychological construct: Consummatory Pleasure scale.,medium,behavioral
+236,Leadership Styles and Behaviors,Leadership,Styles,"Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",medium,behavioral
+237,I Ching hexagram 5 resonance level,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+238,Macronutrient ratio: carbs,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+239,Passport-stamps count,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+240,Local-food sourcing %,General,,Measures indications or behaviors related to Local-food sourcing %.,medium,behavioral
+241,Patient care orientation,General,,Measures indications or behaviors related to Patient care orientation.,medium,behavioral
+242,Soft-skill training hours,General,,Measures indications or behaviors related to Soft-skill training hours.,medium,behavioral
+243,Graffiti appreciation,General,,Measures indications or behaviors related to Graffiti appreciation.,medium,behavioral
+244,Preference for Home-Cooked vs Restaurant Meals,General,,Measures indications or behaviors related to Preference for Home-Cooked vs Restaurant Meals.,medium,behavioral
+245,Immune-response age,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+246,Social-cognition variable: Cognitive Empathy,Cognitive,Ability,"Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",low,cognitive
+247,Kink-interest diversity,General,,Measures indications or behaviors related to Kink-interest diversity.,medium,behavioral
+248,Adaptability and Flexibility,General,,Measures indications or behaviors related to Adaptability and Flexibility.,medium,behavioral
+249,Judging Consequences,General,,Measures indications or behaviors related to Judging Consequences.,medium,behavioral
+250,Harmfulness,General,,Measures indications or behaviors related to Harmfulness.,medium,behavioral
+251,Affinity,General,,Measures indications or behaviors related to Affinity.,medium,behavioral
+252,Abasement,General,,Measures indications or behaviors related to Abasement.,medium,behavioral
+253,Chronic pain presence,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+254,Discernment practice hours / week,General,,Measures indications or behaviors related to Discernment practice hours / week.,medium,behavioral
+255,Initiative,General,,Measures indications or behaviors related to Initiative.,medium,behavioral
+256,Courageousness,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+257,Joyfulness,General,,Measures indications or behaviors related to Joyfulness.,medium,behavioral
+258,Suspicion,General,,Measures indications or behaviors related to Suspicion.,medium,behavioral
+259,Basophil count,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+260,Attachment avoidance score,General,,Measures indications or behaviors related to Attachment avoidance score.,medium,behavioral
+261,Time Orientation End Points,General,,Measures indications or behaviors related to Time Orientation End Points.,medium,behavioral
+262,Brazenness,General,,Measures indications or behaviors related to Brazenness.,medium,behavioral
+263,Talkativeness,General,,Measures indications or behaviors related to Talkativeness.,medium,behavioral
+264,Equitableness,General,,Measures indications or behaviors related to Equitableness.,medium,behavioral
+265,Ideas generated/day,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+266,Originality,General,,Measures indications or behaviors related to Originality.,medium,behavioral
+267,Fearfulness: Fear of physical dangers,General,,Measures indications or behaviors related to Fearfulness: Fear of physical dangers.,medium,behavioral
+268,Dance rehearsal hours/week,General,,Measures indications or behaviors related to Dance rehearsal hours/week.,medium,behavioral
+269,Practice frequency: Mantra meditation,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+270,Public-transport km/week,General,,Measures indications or behaviors related to Public-transport km/week.,medium,behavioral
+271,Social Desirability Bias,General,,Measures indications or behaviors related to Social Desirability Bias.,medium,behavioral
+272,I Ching hexagram 43 resonance level,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+273,Disagreeableness,General,,Measures indications or behaviors related to Disagreeableness.,medium,behavioral
+274,Participation in Community Activities,General,,Measures indications or behaviors related to Participation in Community Activities.,medium,behavioral
+275,Impudence,General,,Measures indications or behaviors related to Impudence.,medium,behavioral
+276,Analogies,General,,Measures indications or behaviors related to Analogies.,medium,behavioral
+277,Clumsiness,General,,Measures indications or behaviors related to Clumsiness.,medium,behavioral
+278,Tendency Toward Compromise or Confrontation,General,,Measures indications or behaviors related to Tendency Toward Compromise or Confrontation.,medium,behavioral
+279,I Ching hexagram 19 resonance level,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+280,Robotics-interaction frequency,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+281,Casual lifestyle,General,,Measures indications or behaviors related to Casual lifestyle.,medium,behavioral
+282,Collectedness,General,,Measures indications or behaviors related to Collectedness.,medium,behavioral
+283,Reliance on context,General,,Measures indications or behaviors related to Reliance on context.,medium,behavioral
+284,Delegation skills,Leadership,Styles,"Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",medium,behavioral
+285,I Ching hexagram 49 resonance level,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+286,Managing emotions,General,,Measures indications or behaviors related to Managing emotions.,medium,behavioral
+287,Scripture memorization verses,General,,Measures indications or behaviors related to Scripture memorization verses.,medium,behavioral
+288,Conventional,General,,Measures indications or behaviors related to Conventional.,medium,behavioral
+289,Hindu spiritual metric: Bhagavad-Gita study hours,Spiritual / Cultural,Religious Practices,Refers to religious or spiritual practices and participation; often self-reported and culture-specific.,low,self-report
+290,Open-source contributions,General,,Measures indications or behaviors related to Open-source contributions.,medium,behavioral
+291,Psychological construct: Social Conformity tendency,General,,Measures indications or behaviors related to Psychological construct: Social Conformity tendency.,medium,behavioral
+292,Individuality,General,,Measures indications or behaviors related to Individuality.,medium,behavioral
+293,I Ching hexagram 22 resonance level,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+294,Attachment style: Secure,General,,Measures indications or behaviors related to Attachment style: Secure.,medium,behavioral
+295,Intelligence Quotient (IQ),Cognitive,Ability,"Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",low,cognitive
+296,Blog-subscriber count,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+297,Non-Verbal Communication Skills,General,,Measures indications or behaviors related to Non-Verbal Communication Skills.,medium,behavioral
+298,Drug-use history,General,,Measures indications or behaviors related to Drug-use history.,medium,behavioral
+299,Commute time/day,General,,Measures indications or behaviors related to Commute time/day.,medium,behavioral
+300,Decision-making speed,General,,Measures indications or behaviors related to Decision-making speed.,medium,behavioral
+301,Psychological construct: Excuse-Making tendency,General,,Measures indications or behaviors related to Psychological construct: Excuse-Making tendency.,medium,behavioral
+302,Peer-to-peer lending usage,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+303,Psychological construct: Eye-Contact avoidance score,General,,Measures indications or behaviors related to Psychological construct: Eye-Contact avoidance score.,medium,behavioral
+304,Social-cognition variable: Faux Pas Recognition accuracy,General,,Measures indications or behaviors related to Social-cognition variable: Faux Pas Recognition accuracy.,medium,behavioral
+305,Conscientiousness (C),General,,Measures indications or behaviors related to Conscientiousness (C).,medium,behavioral
+306,Use of Nature as a Stress Reliever,General,,Measures indications or behaviors related to Use of Nature as a Stress Reliever.,medium,behavioral
+307,Attitude toward learning,General,,Measures indications or behaviors related to Attitude toward learning.,medium,behavioral
+308,Conscientiousness Facets,General,,Measures indications or behaviors related to Conscientiousness Facets.,medium,behavioral
+309,Honesty-humility trait score,General,,Measures indications or behaviors related to Honesty-humility trait score.,medium,behavioral
+310,Digital-nomad months,General,,Measures indications or behaviors related to Digital-nomad months.,medium,behavioral
+311,Religious coping – Negative,Spiritual / Cultural,Religious Practices,Refers to religious or spiritual practices and participation; often self-reported and culture-specific.,low,self-report
+312,Snacking Behavior,General,,Measures indications or behaviors related to Snacking Behavior.,medium,behavioral
+313,Aura-color perception,General,,Measures indications or behaviors related to Aura-color perception.,medium,behavioral
+314,Sacred text engagement: Zohar (Kabbalah) study hours,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+315,Motivational Drivers,General,,Measures indications or behaviors related to Motivational Drivers.,medium,behavioral
+316,Cloud-backup frequency,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+317,Learning Style,General,,Measures indications or behaviors related to Learning Style.,medium,behavioral
+318,Islamic practice: Seerah study hours,General,,Measures indications or behaviors related to Islamic practice: Seerah study hours.,medium,behavioral
+319,Safety compliance,General,,Measures indications or behaviors related to Safety compliance.,medium,behavioral
+320,Sensationalism,General,,Measures indications or behaviors related to Sensationalism.,medium,behavioral
+321,Nationality,General,,Measures indications or behaviors related to Nationality.,medium,behavioral
+322,Drollness,General,,Measures indications or behaviors related to Drollness.,medium,behavioral
+323,Cooperation,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+324,Breakfast-skipping frequency,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+325,Sikh spiritual metric: Kirtan participation frequency,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+326,Impulsivity,General,,Measures indications or behaviors related to Impulsivity.,medium,behavioral
+327,Museum visits/year,General,,Measures indications or behaviors related to Museum visits/year.,medium,behavioral
+328,Choir participation years,General,,Measures indications or behaviors related to Choir participation years.,medium,behavioral
+329,Delegation Ability,Leadership,Styles,"Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",medium,behavioral
+330,Kabbalah sephira balance: Tiferet,Spiritual / Cultural,Religious Practices,Refers to religious or spiritual practices and participation; often self-reported and culture-specific.,low,self-report
+331,Desire to influence others,General,,Measures indications or behaviors related to Desire to influence others.,medium,behavioral
+332,Vivacity,General,,Measures indications or behaviors related to Vivacity.,medium,behavioral
+333,Genialness,General,,Measures indications or behaviors related to Genialness.,medium,behavioral
+334,Cognitive measure: Working Memory Index,Cognitive,Ability,"Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",low,cognitive
+335,Ethical practices,General,,Measures indications or behaviors related to Ethical practices.,medium,behavioral
+336,New-Age spiritual metric: Channeling sessions / year,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+337,Civility,General,,Measures indications or behaviors related to Civility.,medium,behavioral
+338,Sleep Apnea,General,,Measures indications or behaviors related to Sleep Apnea.,medium,behavioral
+339,Classiness,General,,Measures indications or behaviors related to Classiness.,medium,behavioral
+340,Control over situations,General,,Measures indications or behaviors related to Control over situations.,medium,behavioral
+341,Time outdoors/day (h),General,,Measures indications or behaviors related to Time outdoors/day (h).,medium,behavioral
+342,Effeteness,General,,Measures indications or behaviors related to Effeteness.,medium,behavioral
+343,Polygenic risk: cardiovascular disease,Personality,Sensation/Adventure,Indicates tendency to seek novel or risky experiences and take actions with potential negative consequences.,medium,behavioral
+344,Psychological construct: Identity Diffusion level,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+345,Learning through movement,General,,Measures indications or behaviors related to Learning through movement.,medium,behavioral
+346,Caffeine sensitivity gene,General,,Measures indications or behaviors related to Caffeine sensitivity gene.,medium,behavioral
+347,Hatefulness,General,,Measures indications or behaviors related to Hatefulness.,medium,behavioral
+348,Persistence,General,,Measures indications or behaviors related to Persistence.,medium,behavioral
+349,Psychological construct: Perfectionistic Strivings,General,,Measures indications or behaviors related to Psychological construct: Perfectionistic Strivings.,medium,behavioral
+350,Wake-time consistency,General,,Measures indications or behaviors related to Wake-time consistency.,medium,behavioral
+351,Numerical Reasoning,Cognitive,Ability,"Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",low,cognitive
+352,Social-cognition variable: Mentalizing network activation,General,,Measures indications or behaviors related to Social-cognition variable: Mentalizing network activation.,medium,behavioral
+353,Patriotism,General,,Measures indications or behaviors related to Patriotism.,medium,behavioral
+354,Leadership Styles,Leadership,Styles,"Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",medium,behavioral
+355,Servility,General,,Measures indications or behaviors related to Servility.,medium,behavioral
+356,I Ching hexagram 24 resonance level,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+357,Enneagram Personality Types,General,,Measures indications or behaviors related to Enneagram Personality Types.,medium,behavioral
+358,Stress Recovery Ability,General,,Measures indications or behaviors related to Stress Recovery Ability.,medium,behavioral
+359,Troubleshooting technical issues,General,,Measures indications or behaviors related to Troubleshooting technical issues.,medium,behavioral
+360,Defense-mechanism tendency: Introjection,General,,Measures indications or behaviors related to Defense-mechanism tendency: Introjection.,medium,behavioral
+361,Irritability,General,,Measures indications or behaviors related to Irritability.,medium,behavioral
+362,Travel-companions diversity,General,,Measures indications or behaviors related to Travel-companions diversity.,medium,behavioral
+363,Sacred text engagement: Quran surahs memorized,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+364,Trust in others,General,,Measures indications or behaviors related to Trust in others.,medium,behavioral
+365,Gamified-finance-app usage,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+366,Buddhist practice: Eightfold Path – Right Intention level,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+367,Caffeine intake (mg/day),General,,Measures indications or behaviors related to Caffeine intake (mg/day).,medium,behavioral
+368,Comfort with Vulnerability,General,,Measures indications or behaviors related to Comfort with Vulnerability.,medium,behavioral
+369,Anticipativeness,General,,Measures indications or behaviors related to Anticipativeness.,medium,behavioral
+370,Additional Common Parameters and Their End Points,General,,Measures indications or behaviors related to Additional Common Parameters and Their End Points.,medium,behavioral
+371,Avoiding,General,,Measures indications or behaviors related to Avoiding.,medium,behavioral
+372,Home-security-system presence,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+373,HEXACO domain: Honesty-Humility,General,,Measures indications or behaviors related to HEXACO domain: Honesty-Humility.,medium,behavioral
+374,Eating Habits (Home-Cooked vs. Eating Out),General,,Measures indications or behaviors related to Eating Habits (Home-Cooked vs. Eating Out).,medium,behavioral
+375,Decision-Making Confidence,General,,Measures indications or behaviors related to Decision-Making Confidence.,medium,behavioral
+376,Alignment with societal roles,General,,Measures indications or behaviors related to Alignment with societal roles.,medium,behavioral
+377,Connectedness: Belief in interconnections,General,,Measures indications or behaviors related to Connectedness: Belief in interconnections.,medium,behavioral
+378,Quirkiness,General,,Measures indications or behaviors related to Quirkiness.,medium,behavioral
+379,Creative resilience,General,,Measures indications or behaviors related to Creative resilience.,medium,behavioral
+380,Rapid cognitive processing,Cognitive,Ability,"Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",low,cognitive
+381,Cordiality,General,,Measures indications or behaviors related to Cordiality.,medium,behavioral
+382,Types of Mindfulness Techniques Used,Cognitive,Ability,"Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",low,cognitive
+383,Economic reasoning,General,,Measures indications or behaviors related to Economic reasoning.,medium,behavioral
+384,Conformity,General,,Measures indications or behaviors related to Conformity.,medium,behavioral
+385,Pet-enrichment activities count,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological
+386,Aestheticism,General,,Measures indications or behaviors related to Aestheticism.,medium,behavioral
+387,Type of Support Preferred (Emotional vs. Practical),General,,Measures indications or behaviors related to Type of Support Preferred (Emotional vs. Practical).,medium,behavioral
+388,Mental Arithmetic Speed,General,,Measures indications or behaviors related to Mental Arithmetic Speed.,medium,behavioral
+389,Patience: Resistance to anger,General,,Measures indications or behaviors related to Patience: Resistance to anger.,medium,behavioral
+390,Flawlessness,General,,Measures indications or behaviors related to Flawlessness.,medium,behavioral
+391,Self-Efficacy,General,,Measures indications or behaviors related to Self-Efficacy.,medium,behavioral
+392,Computer Skills,General,,Measures indications or behaviors related to Computer Skills.,medium,behavioral
+393,Jewish spiritual metric: Shabbat candle-lighting consistency,Spiritual / Cultural,Religious Practices,Refers to religious or spiritual practices and participation; often self-reported and culture-specific.,low,self-report
+394,Spelling Accuracy,General,,Measures indications or behaviors related to Spelling Accuracy.,medium,behavioral
+395,Sufi practice: Dhikr repetitions / day,Spiritual / Cultural,Religious Practices,Refers to religious or spiritual practices and participation; often self-reported and culture-specific.,low,self-report
+396,Peacefulness,General,,Measures indications or behaviors related to Peacefulness.,medium,behavioral
+397,Doggedness,General,,Measures indications or behaviors related to Doggedness.,medium,behavioral
+398,Decency,General,,Measures indications or behaviors related to Decency.,medium,behavioral
+399,Processed-food frequency,Physiological / Metadata,Physiological,Physiological or measured values that cannot be reliably inferred from conversation alone.,impossible,physiological

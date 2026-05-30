@@ -1,0 +1,3593 @@
+[
+  {
+    "facet_id": 1,
+    "facet_name": "Risktaking",
+    "category": "Personality",
+    "subcategory": "Sensation/Adventure",
+    "description": "Indicates tendency to seek novel or risky experiences and take actions with potential negative consequences.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 2,
+    "facet_name": "Naivety",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Naivety.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 3,
+    "facet_name": "Acidity",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Acidity.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 4,
+    "facet_name": "Democratic Leadership",
+    "category": "Leadership",
+    "subcategory": "Styles",
+    "description": "Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 5,
+    "facet_name": "Common-sense",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Common-sense.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 6,
+    "facet_name": "Hesitation",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Hesitation.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 7,
+    "facet_name": "Discontentment",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Discontentment.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 8,
+    "facet_name": "Overprotectiveness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Overprotectiveness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 9,
+    "facet_name": "Merriness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Merriness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 10,
+    "facet_name": "Emotionalism",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Emotionalism.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 11,
+    "facet_name": "Self-improvement",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Self-improvement.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 12,
+    "facet_name": "Statistical Reasoning",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Statistical Reasoning.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 13,
+    "facet_name": "Assertiveness and control in relationships",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Assertiveness and control in relationships.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 14,
+    "facet_name": "Cunningness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Cunningness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 15,
+    "facet_name": "Adventure-Seeking Behavior",
+    "category": "Personality",
+    "subcategory": "Sensation/Adventure",
+    "description": "Indicates tendency to seek novel or risky experiences and take actions with potential negative consequences.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 16,
+    "facet_name": "Compassion Fatigue",
+    "category": "Personality",
+    "subcategory": "Prosocial",
+    "description": "Indicates prosocial tendencies such as empathy, concern for others, and social awareness.",
+    "inferability": "high",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 17,
+    "facet_name": "Moroseness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Moroseness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 18,
+    "facet_name": "Specialist",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Specialist.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 19,
+    "facet_name": "Aloofness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Aloofness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 20,
+    "facet_name": "Genuine",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Genuine.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 21,
+    "facet_name": "Determinedness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Determinedness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 22,
+    "facet_name": "HonestyHumility",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to HonestyHumility.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 23,
+    "facet_name": "Relationship Building Themes",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Relationship Building Themes.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 24,
+    "facet_name": "Pure Challenge",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Pure Challenge.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 25,
+    "facet_name": "Numerical Reasoning Subcomponents",
+    "category": "Cognitive",
+    "subcategory": "Ability",
+    "description": "Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",
+    "inferability": "low",
+    "evidence_type": "cognitive"
+  },
+  {
+    "facet_id": 26,
+    "facet_name": "Openness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Openness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 27,
+    "facet_name": "SelfEsteem",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to SelfEsteem.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 28,
+    "facet_name": "Comparing alphanumeric data",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Comparing alphanumeric data.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 29,
+    "facet_name": "Big-heartedness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Big-heartedness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 30,
+    "facet_name": "Compulsive activities",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Compulsive activities.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 31,
+    "facet_name": "Disrespect",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Disrespect.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 32,
+    "facet_name": "FSH level",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 33,
+    "facet_name": "Self Perspective",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Self Perspective.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 34,
+    "facet_name": "Desperation",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 35,
+    "facet_name": "Affiliation Motivation",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Affiliation Motivation.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 36,
+    "facet_name": "Anatomy knowledge",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Anatomy knowledge.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 37,
+    "facet_name": "Passive-Aggressive",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Passive-Aggressive.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 38,
+    "facet_name": "Presence of Spiritual Pain",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 39,
+    "facet_name": "Role of Spirituality in Community Involvement",
+    "category": "Spiritual / Cultural",
+    "subcategory": "Religious Practices",
+    "description": "Refers to religious or spiritual practices and participation; often self-reported and culture-specific.",
+    "inferability": "low",
+    "evidence_type": "self-report"
+  },
+  {
+    "facet_id": 40,
+    "facet_name": "Structure",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Structure.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 41,
+    "facet_name": "Eco-tourism trips",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Eco-tourism trips.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 42,
+    "facet_name": "Chivalrousness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Chivalrousness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 43,
+    "facet_name": "Pilgrimage participation count",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 44,
+    "facet_name": "Mindfulness facet: Observing",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Mindfulness facet: Observing.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 45,
+    "facet_name": "Submissiveness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Submissiveness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 46,
+    "facet_name": "Training-cycle length",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Training-cycle length.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 47,
+    "facet_name": "Sensitiveness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Sensitiveness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 48,
+    "facet_name": "Negative Affect Frequency",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 49,
+    "facet_name": "Innovation and Creativity Components",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Innovation and Creativity Components.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 50,
+    "facet_name": "Achievement Motivation",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Achievement Motivation.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 51,
+    "facet_name": "Feedback-giving frequency",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 52,
+    "facet_name": "Dance-cardio sessions",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Dance-cardio sessions.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 53,
+    "facet_name": "Enthusiasm",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Enthusiasm.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 54,
+    "facet_name": "Psychological construct: Social Desirability tendency",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Psychological construct: Social Desirability tendency.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 55,
+    "facet_name": "Inattentiveness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Inattentiveness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 56,
+    "facet_name": "Unassertiveness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Unassertiveness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 57,
+    "facet_name": "Decision-making decisiveness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Decision-making decisiveness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 58,
+    "facet_name": "Sense-of-coherence score",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Sense-of-coherence score.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 59,
+    "facet_name": "Justice-mindedness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Justice-mindedness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 60,
+    "facet_name": "Subscription count",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 61,
+    "facet_name": "Depression Symptoms",
+    "category": "Mental Health",
+    "subcategory": "Mood",
+    "description": "Measures evidence of low mood, sadness, hopelessness, reduced motivation, and loss of interest related to Depression Symptoms.",
+    "inferability": "high",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 62,
+    "facet_name": "Spatial perception",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Spatial perception.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 63,
+    "facet_name": "Brevity",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Brevity.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 64,
+    "facet_name": "Orderliness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Orderliness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 65,
+    "facet_name": "Multiculturalism",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Multiculturalism.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 66,
+    "facet_name": "Creative risk-taking tendency",
+    "category": "Personality",
+    "subcategory": "Sensation/Adventure",
+    "description": "Indicates tendency to seek novel or risky experiences and take actions with potential negative consequences.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 67,
+    "facet_name": "Inefficiency",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Inefficiency.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 68,
+    "facet_name": "Network basics",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Network basics.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 69,
+    "facet_name": "Alphabetical filing skills",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Alphabetical filing skills.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 70,
+    "facet_name": "Work Styles",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Work Styles.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 71,
+    "facet_name": "Character strength: Perseverance",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Character strength: Perseverance.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 72,
+    "facet_name": "Competition",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Competition.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 73,
+    "facet_name": "Logical Sequence Identification",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Logical Sequence Identification.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 74,
+    "facet_name": "Sustainable-transport usage",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 75,
+    "facet_name": "Hardworking",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Hardworking.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 76,
+    "facet_name": "Emotional-intelligence measure: Impulsiveness",
+    "category": "Cognitive",
+    "subcategory": "Ability",
+    "description": "Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",
+    "inferability": "low",
+    "evidence_type": "cognitive"
+  },
+  {
+    "facet_id": 77,
+    "facet_name": "Dishonesty",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Dishonesty.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 78,
+    "facet_name": "Preferred epistemology",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Preferred epistemology.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 79,
+    "facet_name": "Memory for Sounds",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Memory for Sounds.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 80,
+    "facet_name": "Sportsmanship rating",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Sportsmanship rating.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 81,
+    "facet_name": "Immaturity",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Immaturity.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 82,
+    "facet_name": "Health-literacy level",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 83,
+    "facet_name": "Estimating Calculations",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Estimating Calculations.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 84,
+    "facet_name": "Depression: Feelings of sadness and hopelessness",
+    "category": "Mental Health",
+    "subcategory": "Mood",
+    "description": "Measures evidence of low mood, sadness, hopelessness, reduced motivation, and loss of interest related to Depression: Feelings of sadness and hopelessness.",
+    "inferability": "high",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 85,
+    "facet_name": "Synthesis of information",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Synthesis of information.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 86,
+    "facet_name": "Leadership Potential",
+    "category": "Leadership",
+    "subcategory": "Styles",
+    "description": "Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 87,
+    "facet_name": "Ethical standards",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Ethical standards.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 88,
+    "facet_name": "High-spiritedness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to High-spiritedness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 89,
+    "facet_name": "Critical reasoning",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Critical reasoning.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 90,
+    "facet_name": "Sleep-disorder diagnosis",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Sleep-disorder diagnosis.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 91,
+    "facet_name": "Listening Skills Subcomponents",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Listening Skills Subcomponents.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 92,
+    "facet_name": "Collaboration",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 93,
+    "facet_name": "Precision of Movements",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Precision of Movements.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 94,
+    "facet_name": "Social Boldness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Social Boldness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 95,
+    "facet_name": "Auditory memory",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Auditory memory.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 96,
+    "facet_name": "Psychomotor Ability Subcomponents",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Psychomotor Ability Subcomponents.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 97,
+    "facet_name": "Organized lifestyle",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Organized lifestyle.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 98,
+    "facet_name": "Skill-endorsements count",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 99,
+    "facet_name": "Mysteriousness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Mysteriousness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 100,
+    "facet_name": "Cultural Identity",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Cultural Identity.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 101,
+    "facet_name": "Intrinsic Motivation",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Intrinsic Motivation.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 102,
+    "facet_name": "Impartial-mindedness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Impartial-mindedness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 103,
+    "facet_name": "Burnout Symptoms",
+    "category": "Mental Health",
+    "subcategory": "Work-related",
+    "description": "Measures chronic exhaustion, cynicism, and reduced professional efficacy (burnout symptoms).",
+    "inferability": "high",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 104,
+    "facet_name": "Holiness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Holiness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 105,
+    "facet_name": "Selfcontrol",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Selfcontrol.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 106,
+    "facet_name": "SelfDirectedness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to SelfDirectedness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 107,
+    "facet_name": "Encouraging participation",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Encouraging participation.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 108,
+    "facet_name": "Impracticalness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Impracticalness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 109,
+    "facet_name": "Meeting Deadlines",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Meeting Deadlines.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 110,
+    "facet_name": "Data Analysis",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Data Analysis.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 111,
+    "facet_name": "Social Interaction Skills",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Social Interaction Skills.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 112,
+    "facet_name": "Psychoticism",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Psychoticism.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 113,
+    "facet_name": "Ethical leadership rating",
+    "category": "Leadership",
+    "subcategory": "Styles",
+    "description": "Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 114,
+    "facet_name": "Slothfulness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Slothfulness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 115,
+    "facet_name": "Happiness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Happiness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 116,
+    "facet_name": "Contentment Levels",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 117,
+    "facet_name": "Neuroticism",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Neuroticism.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 118,
+    "facet_name": "Desire for excellence",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Desire for excellence.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 119,
+    "facet_name": "Perceiving",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Perceiving.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 120,
+    "facet_name": "Liberalism",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Liberalism.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 121,
+    "facet_name": "Inversion comfort level",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 122,
+    "facet_name": "Affection",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Affection.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 123,
+    "facet_name": "Numeric Filing Skills",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Numeric Filing Skills.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 124,
+    "facet_name": "Martyrdom",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Martyrdom.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 125,
+    "facet_name": "Parathyroid-hormone level",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 126,
+    "facet_name": "Seeking approval",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Seeking approval.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 127,
+    "facet_name": "Judging (J)",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Judging (J).",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 128,
+    "facet_name": "Big Five facet Openness – Artistic Interests",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Big Five facet Openness – Artistic Interests.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 129,
+    "facet_name": "Psychological construct: Operant-Learning rate",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 130,
+    "facet_name": "Psychological construct: Need for Achievement level",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 131,
+    "facet_name": "Cantankerousness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Cantankerousness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 132,
+    "facet_name": "Material properties knowledge",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Material properties knowledge.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 133,
+    "facet_name": "Hostility",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Hostility.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 134,
+    "facet_name": "Independence",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Independence.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 135,
+    "facet_name": "Sufi practice: Sufi retreat attendance count",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 136,
+    "facet_name": "Chromatin-accessibility score",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Chromatin-accessibility score.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 137,
+    "facet_name": "Spiritual virtue: Humility practice index",
+    "category": "Spiritual / Cultural",
+    "subcategory": "Religious Practices",
+    "description": "Refers to religious or spiritual practices and participation; often self-reported and culture-specific.",
+    "inferability": "low",
+    "evidence_type": "self-report"
+  },
+  {
+    "facet_id": 138,
+    "facet_name": "I Ching hexagram 36 resonance level",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 139,
+    "facet_name": "Well-being component: Engagement",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 140,
+    "facet_name": "Need for social interaction",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Need for social interaction.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 141,
+    "facet_name": "Peer-collaboration hours",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 142,
+    "facet_name": "Arts and Humanities",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Arts and Humanities.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 143,
+    "facet_name": "Religious practice: Quran khatam cycles per year",
+    "category": "Spiritual / Cultural",
+    "subcategory": "Religious Practices",
+    "description": "Refers to religious or spiritual practices and participation; often self-reported and culture-specific.",
+    "inferability": "low",
+    "evidence_type": "self-report"
+  },
+  {
+    "facet_id": 144,
+    "facet_name": "Bahá’í spiritual metric: Ridván festival participation",
+    "category": "Spiritual / Cultural",
+    "subcategory": "Religious Practices",
+    "description": "Refers to religious or spiritual practices and participation; often self-reported and culture-specific.",
+    "inferability": "low",
+    "evidence_type": "self-report"
+  },
+  {
+    "facet_id": 145,
+    "facet_name": "Compassion",
+    "category": "Personality",
+    "subcategory": "Prosocial",
+    "description": "Indicates prosocial tendencies such as empathy, concern for others, and social awareness.",
+    "inferability": "high",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 146,
+    "facet_name": "Information Retention",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Information Retention.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 147,
+    "facet_name": "Eye-contact duration",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 148,
+    "facet_name": "Self-righteousness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Self-righteousness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 149,
+    "facet_name": "General Mood and Attitude",
+    "category": "Mental Health",
+    "subcategory": "Mood",
+    "description": "Measures evidence of low mood, sadness, hopelessness, reduced motivation, and loss of interest related to General Mood and Attitude.",
+    "inferability": "high",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 150,
+    "facet_name": "Serotonin transporter availability",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Serotonin transporter availability.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 151,
+    "facet_name": "Contribution to Group Goals",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Contribution to Group Goals.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 152,
+    "facet_name": "Dignity",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Dignity.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 153,
+    "facet_name": "HEXACO Personality Inventory Facets",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to HEXACO Personality Inventory Facets.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 154,
+    "facet_name": "Evaluating Solutions",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Evaluating Solutions.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 155,
+    "facet_name": "Input",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Input.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 156,
+    "facet_name": "Discreteness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Discreteness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 157,
+    "facet_name": "Energy-healing practice: Reiki sessions / year",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Energy-healing practice: Reiki sessions / year.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 158,
+    "facet_name": "Astrology: Rising sign is Scorpio",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Astrology: Rising sign is Scorpio.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 159,
+    "facet_name": "Character strength: Social Intelligence",
+    "category": "Cognitive",
+    "subcategory": "Ability",
+    "description": "Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",
+    "inferability": "low",
+    "evidence_type": "cognitive"
+  },
+  {
+    "facet_id": 160,
+    "facet_name": "Bravery",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Bravery.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 161,
+    "facet_name": "Childhood Experiences",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Childhood Experiences.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 162,
+    "facet_name": "Data-sharing consent level",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 163,
+    "facet_name": "Vision-check frequency",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 164,
+    "facet_name": "Physical-violence exposure",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Physical-violence exposure.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 165,
+    "facet_name": "Macronutrient ratio: fat",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 166,
+    "facet_name": "Cooking and Culinary Arts",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Cooking and Culinary Arts.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 167,
+    "facet_name": "Language use",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 168,
+    "facet_name": "Dance-style mastery diversity",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Dance-style mastery diversity.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 169,
+    "facet_name": "Satya Adherence",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Satya Adherence.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 170,
+    "facet_name": "Ethnocentrism",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Ethnocentrism.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 171,
+    "facet_name": "Emotional Boundaries",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Emotional Boundaries.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 172,
+    "facet_name": "Creativity in solutions",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Creativity in solutions.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 173,
+    "facet_name": "Psychological construct: Hope scale",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Psychological construct: Hope scale.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 174,
+    "facet_name": "Practice frequency: Walking meditation",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 175,
+    "facet_name": "Depression (DEP)",
+    "category": "Mental Health",
+    "subcategory": "Mood",
+    "description": "Measures evidence of low mood, sadness, hopelessness, reduced motivation, and loss of interest related to Depression (DEP).",
+    "inferability": "high",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 176,
+    "facet_name": "Understanding Mathematical Concepts",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Understanding Mathematical Concepts.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 177,
+    "facet_name": "Hypomania (Ma)",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Hypomania (Ma).",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 178,
+    "facet_name": "Goal-Directed Behavior",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Goal-Directed Behavior.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 179,
+    "facet_name": "Depth of Emotional Connections",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Depth of Emotional Connections.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 180,
+    "facet_name": "Binding foundations index",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Binding foundations index.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 181,
+    "facet_name": "Ego Dissolution Frequency",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 182,
+    "facet_name": "Activator: Turning thoughts into action",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Activator: Turning thoughts into action.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 183,
+    "facet_name": "Gnostic spiritual metric: Archon meditation frequency",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 184,
+    "facet_name": "Exemplariness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Exemplariness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 185,
+    "facet_name": "Moral and Ethical Parameters",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Moral and Ethical Parameters.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 186,
+    "facet_name": "Submission",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Submission.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 187,
+    "facet_name": "Frankness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Frankness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 188,
+    "facet_name": "Psychological construct: Psychological Safety climate",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Psychological construct: Psychological Safety climate.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 189,
+    "facet_name": "Psychological construct: Self-Compassion total",
+    "category": "Personality",
+    "subcategory": "Prosocial",
+    "description": "Indicates prosocial tendencies such as empathy, concern for others, and social awareness.",
+    "inferability": "high",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 190,
+    "facet_name": "Psychological construct: Executive-Function composite",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Psychological construct: Executive-Function composite.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 191,
+    "facet_name": "Rebelliousness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Rebelliousness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 192,
+    "facet_name": "Volunteer Work",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Volunteer Work.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 193,
+    "facet_name": "Intellect",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Intellect.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 194,
+    "facet_name": "Use of Mathematical Formulas",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Use of Mathematical Formulas.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 195,
+    "facet_name": "Coarseness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Coarseness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 196,
+    "facet_name": "Behavioral Tendencies and Subcomponents",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Behavioral Tendencies and Subcomponents.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 197,
+    "facet_name": "Sensitivity",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Sensitivity.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 198,
+    "facet_name": "Divided Attention Ability",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Divided Attention Ability.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 199,
+    "facet_name": "Psychological construct: Acculturative Stress score",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Psychological construct: Acculturative Stress score.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 200,
+    "facet_name": "Dauntlessness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Dauntlessness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 201,
+    "facet_name": "Concreteness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Concreteness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 202,
+    "facet_name": "Hysteria (Hy)",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Hysteria (Hy).",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 203,
+    "facet_name": "Jewish spiritual metric: Sukkot lulav-shaking days",
+    "category": "Spiritual / Cultural",
+    "subcategory": "Religious Practices",
+    "description": "Refers to religious or spiritual practices and participation; often self-reported and culture-specific.",
+    "inferability": "low",
+    "evidence_type": "self-report"
+  },
+  {
+    "facet_id": 204,
+    "facet_name": "Sentence Structure",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Sentence Structure.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 205,
+    "facet_name": "Esteem Needs",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Esteem Needs.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 206,
+    "facet_name": "Understanding mechanical concepts",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Understanding mechanical concepts.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 207,
+    "facet_name": "Auditory Memory Recall",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Auditory Memory Recall.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 208,
+    "facet_name": "Storytelling proficiency",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Storytelling proficiency.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 209,
+    "facet_name": "Music-lessons years",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Music-lessons years.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 210,
+    "facet_name": "Warmheartedness",
+    "category": "Personality",
+    "subcategory": "Prosocial",
+    "description": "Indicates prosocial tendencies such as empathy, concern for others, and social awareness.",
+    "inferability": "high",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 211,
+    "facet_name": "Self-effacement",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Self-effacement.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 212,
+    "facet_name": "Outspokenness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Outspokenness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 213,
+    "facet_name": "Sleep-environment temperature",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Sleep-environment temperature.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 214,
+    "facet_name": "Comprehension of spoken information",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Comprehension of spoken information.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 215,
+    "facet_name": "Blissfulness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Blissfulness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 216,
+    "facet_name": "Sequential Memory Recall",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Sequential Memory Recall.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 217,
+    "facet_name": "Withdrawnness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Withdrawnness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 218,
+    "facet_name": "Hindu spiritual metric: Yoga discipline hours / week",
+    "category": "Spiritual / Cultural",
+    "subcategory": "Religious Practices",
+    "description": "Refers to religious or spiritual practices and participation; often self-reported and culture-specific.",
+    "inferability": "low",
+    "evidence_type": "self-report"
+  },
+  {
+    "facet_id": 219,
+    "facet_name": "Conservatism",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Conservatism.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 220,
+    "facet_name": "Adaptability and Flexibility Subcomponents",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Adaptability and Flexibility Subcomponents.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 221,
+    "facet_name": "Hindu spiritual metric: Vrata vows observed / year",
+    "category": "Spiritual / Cultural",
+    "subcategory": "Religious Practices",
+    "description": "Refers to religious or spiritual practices and participation; often self-reported and culture-specific.",
+    "inferability": "low",
+    "evidence_type": "self-report"
+  },
+  {
+    "facet_id": 222,
+    "facet_name": "Ardency",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Ardency.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 223,
+    "facet_name": "Aesthetic Appreciation",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Aesthetic Appreciation.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 224,
+    "facet_name": "Transactional Leadership",
+    "category": "Leadership",
+    "subcategory": "Styles",
+    "description": "Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 225,
+    "facet_name": "Value orientation: Universalism",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Value orientation: Universalism.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 226,
+    "facet_name": "Perseverance",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Perseverance.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 227,
+    "facet_name": "Regularity of Self-Reflection",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Regularity of Self-Reflection.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 228,
+    "facet_name": "Controlling Reactions",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Controlling Reactions.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 229,
+    "facet_name": "Psychological construct: Cultural Intelligence – Behavioral",
+    "category": "Cognitive",
+    "subcategory": "Ability",
+    "description": "Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",
+    "inferability": "low",
+    "evidence_type": "cognitive"
+  },
+  {
+    "facet_id": 230,
+    "facet_name": "Metabolic Rate (Low or High)",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 231,
+    "facet_name": "Dietary Habits",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Dietary Habits.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 232,
+    "facet_name": "Significance: Desire to make an impact",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Significance: Desire to make an impact.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 233,
+    "facet_name": "Psychological construct: Resilience-Trait score",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Psychological construct: Resilience-Trait score.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 234,
+    "facet_name": "Boredom Susceptibility",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Boredom Susceptibility.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 235,
+    "facet_name": "Psychological construct: Consummatory Pleasure scale",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Psychological construct: Consummatory Pleasure scale.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 236,
+    "facet_name": "Leadership Styles and Behaviors",
+    "category": "Leadership",
+    "subcategory": "Styles",
+    "description": "Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 237,
+    "facet_name": "I Ching hexagram 5 resonance level",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 238,
+    "facet_name": "Macronutrient ratio: carbs",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 239,
+    "facet_name": "Passport-stamps count",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 240,
+    "facet_name": "Local-food sourcing %",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Local-food sourcing %.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 241,
+    "facet_name": "Patient care orientation",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Patient care orientation.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 242,
+    "facet_name": "Soft-skill training hours",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Soft-skill training hours.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 243,
+    "facet_name": "Graffiti appreciation",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Graffiti appreciation.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 244,
+    "facet_name": "Preference for Home-Cooked vs Restaurant Meals",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Preference for Home-Cooked vs Restaurant Meals.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 245,
+    "facet_name": "Immune-response age",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 246,
+    "facet_name": "Social-cognition variable: Cognitive Empathy",
+    "category": "Cognitive",
+    "subcategory": "Ability",
+    "description": "Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",
+    "inferability": "low",
+    "evidence_type": "cognitive"
+  },
+  {
+    "facet_id": 247,
+    "facet_name": "Kink-interest diversity",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Kink-interest diversity.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 248,
+    "facet_name": "Adaptability and Flexibility",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Adaptability and Flexibility.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 249,
+    "facet_name": "Judging Consequences",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Judging Consequences.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 250,
+    "facet_name": "Harmfulness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Harmfulness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 251,
+    "facet_name": "Affinity",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Affinity.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 252,
+    "facet_name": "Abasement",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Abasement.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 253,
+    "facet_name": "Chronic pain presence",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 254,
+    "facet_name": "Discernment practice hours / week",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Discernment practice hours / week.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 255,
+    "facet_name": "Initiative",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Initiative.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 256,
+    "facet_name": "Courageousness",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 257,
+    "facet_name": "Joyfulness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Joyfulness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 258,
+    "facet_name": "Suspicion",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Suspicion.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 259,
+    "facet_name": "Basophil count",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 260,
+    "facet_name": "Attachment avoidance score",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Attachment avoidance score.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 261,
+    "facet_name": "Time Orientation End Points",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Time Orientation End Points.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 262,
+    "facet_name": "Brazenness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Brazenness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 263,
+    "facet_name": "Talkativeness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Talkativeness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 264,
+    "facet_name": "Equitableness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Equitableness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 265,
+    "facet_name": "Ideas generated/day",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 266,
+    "facet_name": "Originality",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Originality.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 267,
+    "facet_name": "Fearfulness: Fear of physical dangers",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Fearfulness: Fear of physical dangers.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 268,
+    "facet_name": "Dance rehearsal hours/week",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Dance rehearsal hours/week.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 269,
+    "facet_name": "Practice frequency: Mantra meditation",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 270,
+    "facet_name": "Public-transport km/week",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Public-transport km/week.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 271,
+    "facet_name": "Social Desirability Bias",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Social Desirability Bias.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 272,
+    "facet_name": "I Ching hexagram 43 resonance level",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 273,
+    "facet_name": "Disagreeableness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Disagreeableness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 274,
+    "facet_name": "Participation in Community Activities",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Participation in Community Activities.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 275,
+    "facet_name": "Impudence",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Impudence.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 276,
+    "facet_name": "Analogies",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Analogies.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 277,
+    "facet_name": "Clumsiness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Clumsiness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 278,
+    "facet_name": "Tendency Toward Compromise or Confrontation",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Tendency Toward Compromise or Confrontation.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 279,
+    "facet_name": "I Ching hexagram 19 resonance level",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 280,
+    "facet_name": "Robotics-interaction frequency",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 281,
+    "facet_name": "Casual lifestyle",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Casual lifestyle.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 282,
+    "facet_name": "Collectedness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Collectedness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 283,
+    "facet_name": "Reliance on context",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Reliance on context.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 284,
+    "facet_name": "Delegation skills",
+    "category": "Leadership",
+    "subcategory": "Styles",
+    "description": "Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 285,
+    "facet_name": "I Ching hexagram 49 resonance level",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 286,
+    "facet_name": "Managing emotions",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Managing emotions.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 287,
+    "facet_name": "Scripture memorization verses",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Scripture memorization verses.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 288,
+    "facet_name": "Conventional",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Conventional.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 289,
+    "facet_name": "Hindu spiritual metric: Bhagavad-Gita study hours",
+    "category": "Spiritual / Cultural",
+    "subcategory": "Religious Practices",
+    "description": "Refers to religious or spiritual practices and participation; often self-reported and culture-specific.",
+    "inferability": "low",
+    "evidence_type": "self-report"
+  },
+  {
+    "facet_id": 290,
+    "facet_name": "Open-source contributions",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Open-source contributions.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 291,
+    "facet_name": "Psychological construct: Social Conformity tendency",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Psychological construct: Social Conformity tendency.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 292,
+    "facet_name": "Individuality",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Individuality.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 293,
+    "facet_name": "I Ching hexagram 22 resonance level",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 294,
+    "facet_name": "Attachment style: Secure",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Attachment style: Secure.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 295,
+    "facet_name": "Intelligence Quotient (IQ)",
+    "category": "Cognitive",
+    "subcategory": "Ability",
+    "description": "Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",
+    "inferability": "low",
+    "evidence_type": "cognitive"
+  },
+  {
+    "facet_id": 296,
+    "facet_name": "Blog-subscriber count",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 297,
+    "facet_name": "Non-Verbal Communication Skills",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Non-Verbal Communication Skills.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 298,
+    "facet_name": "Drug-use history",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Drug-use history.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 299,
+    "facet_name": "Commute time/day",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Commute time/day.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 300,
+    "facet_name": "Decision-making speed",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Decision-making speed.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 301,
+    "facet_name": "Psychological construct: Excuse-Making tendency",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Psychological construct: Excuse-Making tendency.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 302,
+    "facet_name": "Peer-to-peer lending usage",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 303,
+    "facet_name": "Psychological construct: Eye-Contact avoidance score",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Psychological construct: Eye-Contact avoidance score.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 304,
+    "facet_name": "Social-cognition variable: Faux Pas Recognition accuracy",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Social-cognition variable: Faux Pas Recognition accuracy.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 305,
+    "facet_name": "Conscientiousness (C)",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Conscientiousness (C).",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 306,
+    "facet_name": "Use of Nature as a Stress Reliever",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Use of Nature as a Stress Reliever.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 307,
+    "facet_name": "Attitude toward learning",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Attitude toward learning.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 308,
+    "facet_name": "Conscientiousness Facets",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Conscientiousness Facets.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 309,
+    "facet_name": "Honesty-humility trait score",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Honesty-humility trait score.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 310,
+    "facet_name": "Digital-nomad months",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Digital-nomad months.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 311,
+    "facet_name": "Religious coping – Negative",
+    "category": "Spiritual / Cultural",
+    "subcategory": "Religious Practices",
+    "description": "Refers to religious or spiritual practices and participation; often self-reported and culture-specific.",
+    "inferability": "low",
+    "evidence_type": "self-report"
+  },
+  {
+    "facet_id": 312,
+    "facet_name": "Snacking Behavior",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Snacking Behavior.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 313,
+    "facet_name": "Aura-color perception",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Aura-color perception.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 314,
+    "facet_name": "Sacred text engagement: Zohar (Kabbalah) study hours",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 315,
+    "facet_name": "Motivational Drivers",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Motivational Drivers.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 316,
+    "facet_name": "Cloud-backup frequency",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 317,
+    "facet_name": "Learning Style",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Learning Style.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 318,
+    "facet_name": "Islamic practice: Seerah study hours",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Islamic practice: Seerah study hours.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 319,
+    "facet_name": "Safety compliance",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Safety compliance.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 320,
+    "facet_name": "Sensationalism",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Sensationalism.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 321,
+    "facet_name": "Nationality",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Nationality.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 322,
+    "facet_name": "Drollness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Drollness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 323,
+    "facet_name": "Cooperation",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 324,
+    "facet_name": "Breakfast-skipping frequency",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 325,
+    "facet_name": "Sikh spiritual metric: Kirtan participation frequency",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 326,
+    "facet_name": "Impulsivity",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Impulsivity.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 327,
+    "facet_name": "Museum visits/year",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Museum visits/year.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 328,
+    "facet_name": "Choir participation years",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Choir participation years.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 329,
+    "facet_name": "Delegation Ability",
+    "category": "Leadership",
+    "subcategory": "Styles",
+    "description": "Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 330,
+    "facet_name": "Kabbalah sephira balance: Tiferet",
+    "category": "Spiritual / Cultural",
+    "subcategory": "Religious Practices",
+    "description": "Refers to religious or spiritual practices and participation; often self-reported and culture-specific.",
+    "inferability": "low",
+    "evidence_type": "self-report"
+  },
+  {
+    "facet_id": 331,
+    "facet_name": "Desire to influence others",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Desire to influence others.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 332,
+    "facet_name": "Vivacity",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Vivacity.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 333,
+    "facet_name": "Genialness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Genialness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 334,
+    "facet_name": "Cognitive measure: Working Memory Index",
+    "category": "Cognitive",
+    "subcategory": "Ability",
+    "description": "Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",
+    "inferability": "low",
+    "evidence_type": "cognitive"
+  },
+  {
+    "facet_id": 335,
+    "facet_name": "Ethical practices",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Ethical practices.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 336,
+    "facet_name": "New-Age spiritual metric: Channeling sessions / year",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 337,
+    "facet_name": "Civility",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Civility.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 338,
+    "facet_name": "Sleep Apnea",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Sleep Apnea.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 339,
+    "facet_name": "Classiness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Classiness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 340,
+    "facet_name": "Control over situations",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Control over situations.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 341,
+    "facet_name": "Time outdoors/day (h)",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Time outdoors/day (h).",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 342,
+    "facet_name": "Effeteness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Effeteness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 343,
+    "facet_name": "Polygenic risk: cardiovascular disease",
+    "category": "Personality",
+    "subcategory": "Sensation/Adventure",
+    "description": "Indicates tendency to seek novel or risky experiences and take actions with potential negative consequences.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 344,
+    "facet_name": "Psychological construct: Identity Diffusion level",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 345,
+    "facet_name": "Learning through movement",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Learning through movement.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 346,
+    "facet_name": "Caffeine sensitivity gene",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Caffeine sensitivity gene.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 347,
+    "facet_name": "Hatefulness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Hatefulness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 348,
+    "facet_name": "Persistence",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Persistence.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 349,
+    "facet_name": "Psychological construct: Perfectionistic Strivings",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Psychological construct: Perfectionistic Strivings.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 350,
+    "facet_name": "Wake-time consistency",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Wake-time consistency.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 351,
+    "facet_name": "Numerical Reasoning",
+    "category": "Cognitive",
+    "subcategory": "Ability",
+    "description": "Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",
+    "inferability": "low",
+    "evidence_type": "cognitive"
+  },
+  {
+    "facet_id": 352,
+    "facet_name": "Social-cognition variable: Mentalizing network activation",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Social-cognition variable: Mentalizing network activation.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 353,
+    "facet_name": "Patriotism",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Patriotism.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 354,
+    "facet_name": "Leadership Styles",
+    "category": "Leadership",
+    "subcategory": "Styles",
+    "description": "Indicates leadership behaviors such as delegation, decision-making, and influence in group settings.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 355,
+    "facet_name": "Servility",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Servility.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 356,
+    "facet_name": "I Ching hexagram 24 resonance level",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 357,
+    "facet_name": "Enneagram Personality Types",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Enneagram Personality Types.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 358,
+    "facet_name": "Stress Recovery Ability",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Stress Recovery Ability.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 359,
+    "facet_name": "Troubleshooting technical issues",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Troubleshooting technical issues.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 360,
+    "facet_name": "Defense-mechanism tendency: Introjection",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Defense-mechanism tendency: Introjection.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 361,
+    "facet_name": "Irritability",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Irritability.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 362,
+    "facet_name": "Travel-companions diversity",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Travel-companions diversity.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 363,
+    "facet_name": "Sacred text engagement: Quran surahs memorized",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 364,
+    "facet_name": "Trust in others",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Trust in others.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 365,
+    "facet_name": "Gamified-finance-app usage",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 366,
+    "facet_name": "Buddhist practice: Eightfold Path – Right Intention level",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 367,
+    "facet_name": "Caffeine intake (mg/day)",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Caffeine intake (mg/day).",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 368,
+    "facet_name": "Comfort with Vulnerability",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Comfort with Vulnerability.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 369,
+    "facet_name": "Anticipativeness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Anticipativeness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 370,
+    "facet_name": "Additional Common Parameters and Their End Points",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Additional Common Parameters and Their End Points.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 371,
+    "facet_name": "Avoiding",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Avoiding.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 372,
+    "facet_name": "Home-security-system presence",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 373,
+    "facet_name": "HEXACO domain: Honesty-Humility",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to HEXACO domain: Honesty-Humility.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 374,
+    "facet_name": "Eating Habits (Home-Cooked vs. Eating Out)",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Eating Habits (Home-Cooked vs. Eating Out).",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 375,
+    "facet_name": "Decision-Making Confidence",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Decision-Making Confidence.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 376,
+    "facet_name": "Alignment with societal roles",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Alignment with societal roles.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 377,
+    "facet_name": "Connectedness: Belief in interconnections",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Connectedness: Belief in interconnections.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 378,
+    "facet_name": "Quirkiness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Quirkiness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 379,
+    "facet_name": "Creative resilience",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Creative resilience.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 380,
+    "facet_name": "Rapid cognitive processing",
+    "category": "Cognitive",
+    "subcategory": "Ability",
+    "description": "Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",
+    "inferability": "low",
+    "evidence_type": "cognitive"
+  },
+  {
+    "facet_id": 381,
+    "facet_name": "Cordiality",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Cordiality.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 382,
+    "facet_name": "Types of Mindfulness Techniques Used",
+    "category": "Cognitive",
+    "subcategory": "Ability",
+    "description": "Relates to general cognitive ability, reasoning, and problem-solving skills; often not directly inferable from conversation.",
+    "inferability": "low",
+    "evidence_type": "cognitive"
+  },
+  {
+    "facet_id": 383,
+    "facet_name": "Economic reasoning",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Economic reasoning.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 384,
+    "facet_name": "Conformity",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Conformity.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 385,
+    "facet_name": "Pet-enrichment activities count",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  },
+  {
+    "facet_id": 386,
+    "facet_name": "Aestheticism",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Aestheticism.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 387,
+    "facet_name": "Type of Support Preferred (Emotional vs. Practical)",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Type of Support Preferred (Emotional vs. Practical).",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 388,
+    "facet_name": "Mental Arithmetic Speed",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Mental Arithmetic Speed.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 389,
+    "facet_name": "Patience: Resistance to anger",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Patience: Resistance to anger.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 390,
+    "facet_name": "Flawlessness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Flawlessness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 391,
+    "facet_name": "Self-Efficacy",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Self-Efficacy.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 392,
+    "facet_name": "Computer Skills",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Computer Skills.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 393,
+    "facet_name": "Jewish spiritual metric: Shabbat candle-lighting consistency",
+    "category": "Spiritual / Cultural",
+    "subcategory": "Religious Practices",
+    "description": "Refers to religious or spiritual practices and participation; often self-reported and culture-specific.",
+    "inferability": "low",
+    "evidence_type": "self-report"
+  },
+  {
+    "facet_id": 394,
+    "facet_name": "Spelling Accuracy",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Spelling Accuracy.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 395,
+    "facet_name": "Sufi practice: Dhikr repetitions / day",
+    "category": "Spiritual / Cultural",
+    "subcategory": "Religious Practices",
+    "description": "Refers to religious or spiritual practices and participation; often self-reported and culture-specific.",
+    "inferability": "low",
+    "evidence_type": "self-report"
+  },
+  {
+    "facet_id": 396,
+    "facet_name": "Peacefulness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Peacefulness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 397,
+    "facet_name": "Doggedness",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Doggedness.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 398,
+    "facet_name": "Decency",
+    "category": "General",
+    "subcategory": null,
+    "description": "Measures indications or behaviors related to Decency.",
+    "inferability": "medium",
+    "evidence_type": "behavioral"
+  },
+  {
+    "facet_id": 399,
+    "facet_name": "Processed-food frequency",
+    "category": "Physiological / Metadata",
+    "subcategory": "Physiological",
+    "description": "Physiological or measured values that cannot be reliably inferred from conversation alone.",
+    "inferability": "impossible",
+    "evidence_type": "physiological"
+  }
+]
