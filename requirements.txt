@@ -10,3 +10,4 @@ requests
 transformers
 torch
 scikit-learn
+pydantic-settings>=2.0.0
