@@ -17,17 +17,21 @@ The system evaluates free-form conversations against a large catalog of facets (
 
 ```mermaid
 graph LR
-  User[User / Operator] -->|web| UI[Streamlit UI]
-  UI -->|HTTP| API[FastAPI Backend]
-  API --> Retriever[Retriever Service]
-  Retriever -->|top-K| FAISS[FAISS Index]
-  FAISS --> Registry[Facet Registry (JSON)]
-  API -->|batch prompts| LLM[LLMScorer (transformers)]
-  LLM --> Parser[Parser & Validator]
+  User["User / Operator"] -->|web| UI["Streamlit UI"]
+  UI -->|HTTP| API["FastAPI Backend"]
+
+  API --> Retriever["Retriever Service"]
+  Retriever -->|top-K| FAISS["FAISS Index"]
+  FAISS --> Registry["Facet Registry (JSON)"]
+
+  API -->|batch prompts| LLM["LLMScorer (transformers)"]
+  LLM --> Parser["Parser & Validator"]
   Parser --> API
+
   API -->|results| UI
-  DataPrep[Data Prep scripts] --> Registry
-  DataPrep --> Embeddings[Embedding Model]
+
+  DataPrep["Data Prep Scripts"] --> Registry
+  DataPrep --> Embeddings["Embedding Model"]
   Embeddings --> FAISS
 ```
 
