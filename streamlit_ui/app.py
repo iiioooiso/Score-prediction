@@ -1,7 +1,42 @@
 import os
+import sys
+from pathlib import Path
+
+# Ensure project root is on sys.path so `from app.*` imports work
+# when Streamlit runs with `streamlit run streamlit_ui/app.py`.
+_ROOT = Path(__file__).resolve().parents[1]
+if str(_ROOT) not in sys.path:
+    sys.path.insert(0, str(_ROOT))
+
 import streamlit as st
 import requests
-from app.core.config import settings
+import importlib.util
+
+# Load project settings from `app/core/config.py` by file path to avoid
+# a name collision when Streamlit loads this script as a module named
+# `app` (which would shadow the package directory). This ensures we
+# get the real `settings` object defined in the project's config.
+_config_path = Path(_ROOT) / "app" / "core" / "config.py"
+settings = None
+if _config_path.exists():
+    spec = importlib.util.spec_from_file_location("project_config", str(_config_path))
+    project_config = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(project_config)  # type: ignore
+    settings = getattr(project_config, "settings", None)
+else:
+    # fallback to attempting a normal import (best-effort)
+    try:
+        from app.core.config import settings as _s  # type: ignore
+        settings = _s
+    except Exception:
+        settings = None
+
+# Minimal fallback when config can't be loaded
+if settings is None:
+    class _FallbackSettings:
+        MOCK_MODE = True
+
+    settings = _FallbackSettings()
 
 API_URL = os.getenv("API_URL", "http://localhost:8000")
 
